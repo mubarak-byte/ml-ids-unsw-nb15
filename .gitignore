@@ -2,4 +2,5 @@ _pycache_/
 *.pyc
 .ipynb_checkpoints/
 *.csv
-archive
+archive.zip
+*.zip
